@@ -32,12 +32,12 @@ Diabetes is a global health concern, and early identification of at-risk individ
 
 ## Insights and Learnings
 
-1. **What did you learn?**
+1. **What did I learn?**
    - Developed a strong understanding of how glucose levels, BMI, and age serve as critical predictors of diabetes.
    - Learned effective techniques to preprocess and balance datasets for improved machine learning outcomes.
    - Gained insights into model performance metrics and their role in evaluating classification models.
 
-2. **What did you try out?**
+2. **What did I try out?**
    - Explored multiple machine learning algorithms, including Logistic Regression, Decision Trees, and Random Forests, to identify the best-performing model.
    - Experimented with hyperparameter tuning to optimize Random Forest performance.
    - Used SMOTE (Synthetic Minority Oversampling Technique) to handle class imbalance effectively.
